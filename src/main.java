@@ -22,6 +22,8 @@ public class main {
 			b = rs.getString(2);
 		}
 		
+		// this is the new data
+		
 		System.out.println(a + " " + b);
 		
 
